@@ -1,0 +1,6 @@
+{
+  "name": "Process Flow & Instrument Simulator",
+  "description": "Industrial process circuit and telemetry simulator with hydraulic modeling, PID loops, and P&ID canvas for OCP phosphate engineering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
